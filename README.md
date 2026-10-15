@@ -26,11 +26,3 @@
 </table>
 
 More: [flocky](https://github.com/CodingJinxx/flocky) (agents for distributed work with guardrails) and [jinxx-tools](https://github.com/CodingJinxx/jinxx-tools) (my Obsidian plugin for my workflow).
-
-## Support
-
-Everything above is free to use for your own projects (see each repository for its licence). If one of them saves you time, a coffee keeps them going.
-
-<p align="center">
-	<a href="https://buymeacoffee.com/codingjinxx"><img src="assets/coffee-button.svg" alt="Buy me a coffee" width="260"></a>
-</p>
