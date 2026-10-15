@@ -25,7 +25,7 @@
 	</tr>
 </table>
 
-More: [flocky](https://github.com/CodingJinxx/flocky) (agents for distributed work with guardrails), [manic-warehouse](https://github.com/CodingJinxx/manic-warehouse) (a logistics nightmare), [jinxx-tools](https://github.com/CodingJinxx/jinxx-tools) (my Obsidian plugin for my workflow).
+More: [flocky](https://github.com/CodingJinxx/flocky) (agents for distributed work with guardrails) and [jinxx-tools](https://github.com/CodingJinxx/jinxx-tools) (my Obsidian plugin for my workflow).
 
 ## Support
 
