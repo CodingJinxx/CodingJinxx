@@ -10,6 +10,13 @@
 
 <table>
 	<tr>
+		<td width="96" align="center"><a href="https://github.com/CodingJinxx/scan-stitch"><img src="https://raw.githubusercontent.com/CodingJinxx/scan-stitch/main/assets/logo.png" alt="" width="72"></a></td>
+		<td>
+			<strong><a href="https://github.com/CodingJinxx/scan-stitch">Scan Stitch</a></strong><br>
+			An Obsidian plugin that turns a scanner's one-file-per-page output into one correctly rotated PDF in your vault, with a live page counter and a keyboard-first review screen. It never touches the scanner folder.
+		</td>
+	</tr>
+	<tr>
 		<td width="96" align="center"><a href="https://github.com/CodingJinxx/transparent-translate"><img src="https://raw.githubusercontent.com/CodingJinxx/transparent-translate/main/docs/images/icon-256.png" alt="" width="72"></a></td>
 		<td>
 			<strong><a href="https://github.com/CodingJinxx/transparent-translate">Transparent Translate</a></strong><br>
